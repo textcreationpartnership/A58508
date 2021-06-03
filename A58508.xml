@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Remarks upon some wrong computations and conclusions, contained in a late tract, entitled, Discourses on the publick revenues, and on the trade of England. In a letter to Mr. D.S.</title>
+         </titleStmt>
+         <extent>Approx. 60KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58508</idno><idno type="EEBO-CITATION">99826218</idno>
+  <idno type="VID">30615</idno>
+  <idno type="EEBO-PROQUEST">2264205340</idno>
+  
+            <idno type="STC">Wing R947</idno>
+            <idno type="STC">ESTC R213974</idno>
+            <idno type="PROQUEST">99826218</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826218e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30615)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1800:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Remarks upon some wrong computations and conclusions, contained in a late tract, entitled, Discourses on the publick revenues, and on the trade of England. In a letter to Mr. D.S.</title>
+               </titleStmt>
+               <extent>47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Keblewhite, at the Swan in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to the work by Charles Davenant.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Davenant, Charles, 1656-1714. --  Discourses on the publick revenues, and on the trade of England --  Early works to 1800.</term>
+               <term type="topical_term">Finance --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Commercial policy --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Colonies --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30615:1"/>
+            <p>REMARKS Upon some <hi>Wrong Computations</hi> AND CONCLUSIONS, Contained in <hi>A late Tract,</hi> Entitled, <hi>Discourses on the Publick Revenues, and on the Trade of</hi> England.</p>
+            <p>In a Letter to Mr. <hi>D. S.</hi>
+            </p>
+            <q>
+               <hi>Miserable is that Country, where the Men of Business do not reckon right.</hi> Discourses on the Publick Revenues, <hi>&amp;c.</hi>
+               <bibl>
+                  <hi>p.</hi> 14.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>W. Keblewhite,</hi> at the <hi>Swan</hi> in St. <hi>Paul</hi>'s Church-Yard. 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:30615:2"/>
+            <pb n="3" facs="tcp:30615:2"/>
+            <head>To Mr. <hi>D. S.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHEN you desired my Thoughts of a late Tract, Entitled, <hi>Discourses on the Publick Revenues, and on the Trade of</hi> England, I read those Discourses, particularly that on <hi>the Management of the Revenue of the Excise,</hi> with as much Atten<g ref="char:EOLhyphen"/>tion as my Time and Business would per<g ref="char:EOLhyphen"/>mit, and with an Expectation of finding an <hi>Exact Account</hi> of the <hi>Rise</hi> and <hi>Fall</hi> of that Revenue, and of the true Causes thereof: But instead of this, I met with such a Se<g ref="char:EOLhyphen"/>ries of Wrong Computations and loose Rea<g ref="char:EOLhyphen"/>soning,
+<pb n="4" facs="tcp:30615:3"/> as do sufficiently expose the Vanity of the Author, in pretending to a Knowledg in <hi>Political Arithmetick,</hi> and a <hi>Faculty</hi> of <hi>Com<g ref="char:EOLhyphen"/>puting</hi> and <hi>Reasoning upon things by Figures,</hi> not common to other Men.</p>
+            <p>He tells us (<hi>p.</hi> 72.) that <hi>one of the Fines they must Pay, who are in Imployment, is to have their Conduct Censured by the Standers by.</hi> This is very true, and there is no help for it; for some discontented Persons, for want of other Business, are frequently employed in finding fault with others, and this Author has given us an Instance of this Practice in his Third Discourse, in which (amongst all his formal Schemes and seeming Demonstra<g ref="char:EOLhyphen"/>tions) he has proved nothing more plainly, than that his main Design was to <hi>Magnifie</hi> the <hi>good Conduct</hi> of the first Commissioners, (of which number himself was on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) and to Censure the Conduct of the several Com<g ref="char:EOLhyphen"/>missioners who have since been intrusted with the Management of that Revenue: This will appear from the high Encomiums he gives of the first Commissioners and their Management, and from what he Suggests concerning the latter.</p>
+            <p n="1">
+               <pb n="5" facs="tcp:30615:3"/> 1. <q>The first <hi>Commis<g ref="char:EOLhyphen"/>sioners</hi> (he tells us) were Persons, who all of them, some way or other, had been before conver<g ref="char:EOLhyphen"/>sant in the Excise, and they agreed ve<g ref="char:EOLhyphen"/>ry well together, for in Six Years of that Management, not one thing was ever put to the Vote a<g ref="char:EOLhyphen"/>mong them, <hi>p.</hi> 77.</q>
+            </p>
+            <p n="2">2. <q>They rarely made any Addition of Of<g ref="char:EOLhyphen"/>ficers, to increase the King's Charge, but upon their own View, in their Cir<g ref="char:EOLhyphen"/>cuits, and upon a full Conviction, that such Increase of Ex<g ref="char:EOLhyphen"/>pence would turn to the King's Ac<g ref="char:EOLhyphen"/>compt, <hi>ibid.</hi>
+               </q>
+            </p>
+            <p n="3">
+               <pb n="6" facs="tcp:30615:4"/>3. <q>They took care to employ responsi<g ref="char:EOLhyphen"/>ble Men for their Collectors, by which Means their Ac<g ref="char:EOLhyphen"/>compts have been made up with very little Supers upon any Officer, <hi>ibid.</hi>
+               </q>
+            </p>
+            <p n="4">4. <q>Their Manage<g ref="char:EOLhyphen"/>ment was Impartial, no Man was turned out only to let in another, but upon strong Proof, and the Report of a Commissioner, or General Officer upon the Spot, <hi>p.</hi> 78.</q>
+            </p>
+            <p n="5">5. <q>They were stea<g ref="char:EOLhyphen"/>dy and constant in their Proceedings, not giving out ge<g ref="char:EOLhyphen"/>neral Orders one Week, and contra<g ref="char:EOLhyphen"/>dicting them the next, <hi>p.</hi> 78.</q>
+            </p>
+            <p n="6">
+               <pb n="7" facs="tcp:30615:4"/>6. <q>They did not vex the People any where with unrea<g ref="char:EOLhyphen"/>sonable Fines, nor were they severe in <hi>London</hi> in exacting Arrears, <hi>ibid.</hi>
+               </q>
+            </p>
+            <p n="7">7. <q>These Commis<g ref="char:EOLhyphen"/>sioners quitted their private Business and Professions, to de<g ref="char:EOLhyphen"/>vote themselves wholly to the King's Service, managing his Revenue with the same Care, Affe<g ref="char:EOLhyphen"/>ction, and Frugality, as the Father of a Family would use in ordering his own Affairs, <hi>p.</hi> 79.</q>
+            </p>
+            <p n="1">
+               <pb n="5" facs="tcp:30615:3"/>
+               <hi>1.</hi> In the <hi>New Com<g ref="char:EOLhyphen"/>missions</hi> that have been made since the Year <hi>1688.</hi> he suggests, that the Persons em<g ref="char:EOLhyphen"/>ployed were generally never bred to Business, that their Fortunes were above it, and that they never well a<g ref="char:EOLhyphen"/>greed one with another, <hi>p. 84.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> That they have Increased the King's Charge without suffi<g ref="char:EOLhyphen"/>cient Reason, not upon their own View, but meerly at the Sugge<g ref="char:EOLhyphen"/>stion of those under them, <hi>p. 85.</hi>
+            </p>
+            <p n="3">
+               <pb n="6" facs="tcp:30615:4"/>
+               <hi>3.</hi> That they have employed such Men for Collectors, as in a short time did run away with <hi>25.000 l.</hi> of the King's Money, <hi>ibid.</hi>
+            </p>
+            <p n="4">
+               <hi>4.</hi> That they have turn'd out, upon slight Grounds, the major part of the <hi>1200</hi> Able and Experienc'd Officers, that were left them by the former Managers, <hi>ibid.</hi>
+            </p>
+            <p n="5">
+               <hi>5.</hi> That they have been unconstant and un<g ref="char:EOLhyphen"/>steady in their Proceed<g ref="char:EOLhyphen"/>ings, varying their Or<g ref="char:EOLhyphen"/>ders very often, and the greatest part of their Time is wholly taken up in placing and displace<g ref="char:EOLhyphen"/>ing Officers, <hi>p. 86.</hi>
+            </p>
+            <p n="6">
+               <pb n="7" facs="tcp:30615:4"/>
+               <hi>6.</hi> That they have vex'd the Brewers with frivolous Informations and unreasonable Fines, and by severely exact<g ref="char:EOLhyphen"/>ing Arrears, have so distressed the <hi>London</hi> Brewers, that they can<g ref="char:EOLhyphen"/>not afford to make good Drink, and so driven the People to Brew for themselves, <hi>ibid.</hi>
+            </p>
+            <p n="7">
+               <hi>7.</hi> That they have such a multiplicity, ei<g ref="char:EOLhyphen"/>ther of publick or pri<g ref="char:EOLhyphen"/>vate Business, that they cannot attend the King's Service in this Post, so much as would be required in a vi<g ref="char:EOLhyphen"/>gorous Management, <hi>(p. 86.)</hi> That they have left about <hi>1200</hi> Officers in the Country for some Years to them<g ref="char:EOLhyphen"/>selves, without any In<g ref="char:EOLhyphen"/>spection. That they are not enough Masters of their Business to make
+<pb n="8" facs="tcp:30615:5"/> these Circuits effectual, and to look into the Proceedings of their Under-Officers, <hi>p. 85.</hi>
+            </p>
+            <p>We have here both Matter and Occa<g ref="char:EOLhyphen"/>sion for just Reflexions. But as to the first Commissioners, I shall not say any thing in Diminution of their true Worth, and just Merits (tho' others may have just grounds to suspect both, from this Author's Ful<g ref="char:EOLhyphen"/>some Commendations) nor need I Apolo<g ref="char:EOLhyphen"/>gise for any of those Gentlemen who have since had the Honour to serve the King in that Station; for I take most of this Au<g ref="char:EOLhyphen"/>thors Suggestions to be <hi>Invidious Calumnies,</hi> which have no other Foundation but <hi>Reports without Doors</hi> (as he words it) that is, Idle Stories pick'd up in Coffee-Houses; but they serve his purpose, as well as plain and undeniable Fact; and from such Premisses as these, he seems to draw most of his Con<g ref="char:EOLhyphen"/>clusions, as shall in part be made appear in this Paper.</p>
+            <p>As to the Improvements made in the Ex<g ref="char:EOLhyphen"/>cise by the First Commissioners, (who began their Management at <hi>Midsummer</hi> 1683. and continued about Six Years,) he tells (<hi>p.</hi> 80.) there was increased by the Managers upon the Duties on <hi>Beer</hi> and <hi>Ale only,</hi> 150, 753 <hi>l. per Annum.</hi>
+            </p>
+            <pb n="9" facs="tcp:30615:5"/>
+            <p>Whereas, in Truth this was the whole In<g ref="char:EOLhyphen"/>crease made during those Six Years, which upon a Medium is but 25. 125.<hi>l. per Ann.</hi>
+            </p>
+            <p>He Attributes this Increase chiefly to the good Management of the then Commis<g ref="char:EOLhyphen"/>sioners, which he tells us (<hi>p.</hi> 78.) was <hi>Impartial, Uuncorrupt,</hi> and <hi>Steady;</hi> the <hi>Increase</hi> (he saith, <hi>p.</hi> 74.) was <hi>Gradual, which shews it was Natural, not Violent; a Work not of Chance, Force, or Power, but rather the effect of Industry and Conduct.</hi> By all which (com<g ref="char:EOLhyphen"/>par'd with what he saith <hi>p.</hi> 85, 86.) he would Insinuate, that the Management since hath been <hi>Partial, Corrupt,</hi> and <hi>Pre<g ref="char:EOLhyphen"/>carious.</hi>
+            </p>
+            <p>It is granted, the Amount of the whole Kingdom did Increase every Year of those Six Years Management; but the greatest Increase made in any of those Six Years, was but 42.012 <hi>l.</hi> which is but 3113 <hi>l.</hi> more than was Advanced upon the same Branch in the Year ending <hi>Midsummer,</hi> 1696.</p>
+            <p>But those first Commissioners he tells us (<hi>p.</hi> 77.) <hi>Agreed very well together, for in the six Years of that Management not one Thing was ever put to the Vote among them.</hi>
+            </p>
+            <pb n="10" facs="tcp:30615:6"/>
+            <p>In the six Years mentioned, this Reve<g ref="char:EOLhyphen"/>nue was managed by Seven Commissioners, and if you consider that this Author was one of the Number, you will perhaps think it Incredible that all the Causes which must have come before them, in the six Years of their Management, should have been resol<g ref="char:EOLhyphen"/>ved <hi>nemine contradicente,</hi> or that they should have known each others Minds without any Previous Debate, or ever putting the Que<g ref="char:EOLhyphen"/>stion. This was certainly an Extraordinary Management; but whether Good or Bad, cannot be concluded from what is here said, and granting there was such an Agreement among them, as this Author affirms, there may be many Instances given, where their <hi>Unanimity</hi> and <hi>Conduct,</hi> so much boasted of, was not much for the King's Service.</p>
+            <p>He owns (<hi>p.</hi> 99.) that about one Third of the Annual Increase in the six Years of the first Management, did arise from the In<g ref="char:EOLhyphen"/>crease of People and Wealth in the Nation; but then he affirms, (with more <hi>Assurance</hi> than <hi>Reason,</hi>) that the other two Thirds was <hi>Recovered to the King out of some Deficiency in the former Conduct.</hi>
+            </p>
+            <pb n="11" facs="tcp:30615:6"/>
+            <p>But the Truth of the Fact was thus: The Dispute about the Difference betwixt Beer and Ale began in the time of the Farm; (some Officers Charged the Victuallers 32 Gallons to the Barrel, and others allow'd 36, so that at the end of the Farm (Mid<g ref="char:EOLhyphen"/>summer 1683.) great Numbers of the Vi<g ref="char:EOLhyphen"/>ctuallers and most of the Common-Brewers in the Country were allow'd 36 Gallons to the Barrel of all the Drink they Brew'd. But in a short time the Gaugers were taught to distinguish better, and the same sort of Drink which had been formerly Charged Beer at 36 Gallons to the Barrel, was then call'd Ale, and Charged at 32 Gallons to the Bar<g ref="char:EOLhyphen"/>rel. Besides,</p>
+            <p>At the end of the Farm, the Victuallers were generally Charged only from the In<g ref="char:EOLhyphen"/>crease found in their Stock, Gauging their Worts being then rarely in use, except in the Northern Counties and some parts of <hi>Wales.</hi> But at the beginning of the Management the Number of Officers was Increased, and their Divisions so lessen'd, that they might and did Gauge the Victuallers Worts in all Market-Towns, and in many other Places, and so every 32 Gallons of Worts taken by Gauge (hot or cold it matter'd not) were Charged for a Barrel of Ale, (tho at that time there
+<pb n="12" facs="tcp:30615:7"/> was no Law for charging of Worts) by this Practice a great Advance was made, for it was found by Experience that if a Victual<g ref="char:EOLhyphen"/>ler Brewed to fill a Vessel of 36 Gallons, he must make about 40 Gallons of Worts, and was charged so much, though these Worts would not make above 36 Gallons of Beer or Ale. And because many Victuallers liv<g ref="char:EOLhyphen"/>ed so remote from the Market-Towns, that the Gaugers could not come to take a Gauge of their Worts every Brewing, it was a ge<g ref="char:EOLhyphen"/>neral Practice in such Cases, for the Gaugers to charge 4 Gallons in 36 more than they found Tunn'd. These were the Methods by which the Excise was advanced in the six Years of that Management, and tho this Au<g ref="char:EOLhyphen"/>thor tells us (<hi>p.</hi> 99.) this Advance was got by <hi>Skill</hi> and <hi>Conduct,</hi> others may with good Reason conclude, notwithstanding what he Avers to the contrary (<hi>pag.</hi> 103.) <hi>It was got by stretching the Law, and taking more than the King's due.</hi>
+            </p>
+            <p>As to the Fall of this Revenue he tell us, (<hi>p.</hi> 73.)</p>
+            <pb n="13" facs="tcp:30615:7"/>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">l. s. d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Single Excise on Beer and Ale, with the Additional Duties on Brandy and Strong-Waters, produc'd, Year ending Midsummer</hi> 1689. <hi>Gross</hi>
+                     </cell>
+                     <cell>842.005:04:9 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Single Excise on Beer and Ale, with the Ad<g ref="char:EOLhyphen"/>ditional Duties on Brandy, and the new Impositions on Low-Wines, produced, Year ending Midsummer,</hi> 1696. <hi>Gross.</hi>
+                     </cell>
+                     <cell>533.580:13:3 ¾</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Single Duty fallen</hi>
+                     </cell>
+                     <cell>308.424:11:5 ½</cell>
+                  </row>
+               </table>
+            </p>
+            <p>'Tis true, he tells us (<hi>p.</hi> 74.) <hi>French Bran<g ref="char:EOLhyphen"/>dies have been Prohibited.</hi> But he is willing to keep his Reader in the Dark, and to pre<g ref="char:EOLhyphen"/>possess him with an Opinion that the Single Duty of Excise is fallen above 300.000 <hi>l.</hi> and therefore he compared the Produce of a Year since the Prohibition of <hi>French</hi> Bran<g ref="char:EOLhyphen"/>dies, with the Produce of a Year before the Prohibition, in which the Duty on Brandy Imported Amounted to 140.000 <hi>l. Vide</hi> his <hi>Essay upon Ways and Means. (p.</hi> 138.)</p>
+            <pb n="14" facs="tcp:30615:8"/>
+            <p>He suggests (<hi>p.</hi> 85.) that the new Com<g ref="char:EOLhyphen"/>missioners <hi>have unhing'd the former Methods, Approv'd of by long Experience, and put the Gau<g ref="char:EOLhyphen"/>gers upon a new way of keeping their Stock-Books, and Charging the People.</hi> And that they <hi>have turn'd out, upon slight Grounds, the Major part of</hi> 1200 <hi>Able Experienced Officers that were left them by the former Ma<g ref="char:EOLhyphen"/>nagers.</hi>
+            </p>
+            <p>If some of the former Methods, (and those by which the Revenue was most Ad<g ref="char:EOLhyphen"/>vanced, in the time of his six Years Manage<g ref="char:EOLhyphen"/>ment) were without or Contrary to Law, that was a sufficient Ground for the laying such Methods aside; not to mention that Subsequent Laws have made such Change necessary.</p>
+            <p>As to his 1200 <hi>Able Experienced Officers,</hi> I cannot tell what Number of them have been Discharged since the Revolution; but 'tis certain that many of them were Turn'd out for Notorious Disaffection to the Go<g ref="char:EOLhyphen"/>vernment: Perhaps this Writer may think <hi>that a slight Ground</hi> for their Discharge. And (<hi>p.</hi> 144.) he makes it an Encouragement to such as shall Farm the Excise, that most of the Old Officers are still in being.</p>
+            <pb n="15" facs="tcp:30615:8"/>
+            <p>He computes (<hi>pag.</hi> 87.) by the Duty on Beer and Ale only. And tells us,
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l. s. d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Last Year of the for<g ref="char:EOLhyphen"/>mer Management, end<g ref="char:EOLhyphen"/>ing</hi> June 24. 1689. <hi>the Country and</hi> London <hi>Excise on Beer and Ale only, produced Single Duty.</hi>
+                     </cell>
+                     <cell>694.476:02:06 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Under the present Management, Year end<g ref="char:EOLhyphen"/>ing</hi> June 24, 1696. <hi>the Country and</hi> London <hi>Excise on Beer and Ale only, prduced Single Duty.</hi>
+                     </cell>
+                     <cell>512.160:03:00 ¼</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Single Duty fal<g ref="char:EOLhyphen"/>len under the present Management,</hi> per An</cell>
+                     <cell>182.315:19:06</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="16" facs="tcp:30615:9"/>
+            <p>It appears by his own Scheme <hi>p.</hi> 74.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l. s. d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That this Branch in seven Years before Midsummer 1689. produced but</cell>
+                     <cell>4.413.689:16:9</cell>
+                  </row>
+                  <row>
+                     <cell>And that the same Branch in seven years since Midsummer 1689. produced</cell>
+                     <cell>3.653.173:09:9</cell>
+                  </row>
+                  <row>
+                     <cell>Fallen in Seven Years</cell>
+                     <cell>760.516:07:0</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Which is but 108.645<hi>l.</hi> 3<hi>s.</hi> 10<hi>d.</hi> ¼ <hi>per Ann.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>But he goes on to observe, That this Branch fell again in the Year ending Mid<g ref="char:EOLhyphen"/>summer 1697,—73.747 <hi>l.</hi> and, tho' the Accompts are not made up, he tells us (<hi>pag.</hi> 88.) this Branch yielded, 1697, not above 438.413 <hi>l.</hi> out of which he deducts 100.000<hi>l.</hi> for Management, and then sairh there re<g ref="char:EOLhyphen"/>mains to the King but 338.414<hi>l.</hi> But a Person of his Experienec might have known that the Officers Salaries and other Incident Charges in the Country, (which are near 70.000<hi>l. per Ann.</hi>) are paid out of the whole Revenue, and not out of the Single Duty only.</p>
+            <pb n="17" facs="tcp:30615:9"/>
+            <p>He tells us (<hi>p.</hi> 102.) <hi>When the Accompts for the Year ending</hi> June 24th. 1697. <hi>come to be made up, it will be seen that this Branch in the Single and Double Duty, is fallen at least</hi> 115.000 <hi>l.</hi> (vid. <hi>Errata</hi>) and (<hi>p.</hi> 87.) he Computes that the Single Duty fell 73.747 <hi>l.</hi> the same Year. But these two Accompts will in no sort agree, for if the Single and Double Duty together fell but 115.000 <hi>l.</hi> the Single Duty alone could fall but 60.526 <hi>l.</hi> (or thereabout) Or if the Single Duty fell 73.747 <hi>l.</hi> the Single and Double must have fallen about 140.119 <hi>l.</hi>
+            </p>
+            <p>But not to insist upon this. It must be granted, the Fall of this Revenue has been very great, and tho' I shall not take upon me to justifie the Management since the Revolution, (which possibly may have been loose enough, if, as he observes (<hi>p.</hi> 84, 86.) <hi>Some of the Commissioners were Persons never bred to Business, or had Fortunes above it; or had such a Multiplicity of Publick or Private Business that they could not attend the King's Business in this Post,</hi>) yet I think there are Reasons to be given which will justifie this Fall, admitting it to be as great as has been suggested.</p>
+            <p>This Author is sensible of this, and there<g ref="char:EOLhyphen"/>fore in his Second Scheme he has made Allowances upon Eight several Heads. The Total of which for seven Years A<g ref="char:EOLhyphen"/>mounts
+<pb n="18" facs="tcp:30615:10"/> to 602.000 <hi>l.</hi> Now this added to the Total of the Produce of those se<g ref="char:EOLhyphen"/>ven Years makes 4.254.000. which comes within 159.000 <hi>l.</hi> of the total amount in seven Years before Midsummer 1689. and yet he tells us, <hi>There appears to be lost,</hi> [in seven years since Midsummer 1689.] <hi>over and above all Reasonable Allowances,</hi> 604.000 <hi>l.</hi>
+            </p>
+            <p>And to make this seem Plausible, he takes the Produce of the Year ending Mid<g ref="char:EOLhyphen"/>summer 1689. <hi>viz.</hi> 694.000 <hi>l.</hi> and sets it down seven times; and having as he thinks, made all manner of reasonable Allowances for the Alteration of Measures, and other Accidents that could Affect this Revenue; he supposes that the Annual Produce of these seven Years <hi>since</hi> Midsummer 1689. together with the Allowances he has made, should be Equal to the Produce of the Year end<g ref="char:EOLhyphen"/>ing 1689, <hi>viz.</hi> 694.000 <hi>l.</hi> and because in the whole seven Years it falls short about 604.000 <hi>l.</hi> so much he affirms is lost; <hi>over and above all reasonable Allowances.</hi> It may there<g ref="char:EOLhyphen"/>fore be worth the while to Examin whe<g ref="char:EOLhyphen"/>ther there be not good Reasons to make Greater Allowances, than he has thought fit to make.</p>
+            <p>Upon the First Head, <hi>viz.</hi> the Altera<g ref="char:EOLhyphen"/>tion of Measures, he allows 20 or 21.000<hi>l. per Ann.</hi> It has been already observed that
+<pb n="19" facs="tcp:30615:10"/> before the Revolution, all the Victuallers and most of the Brewers in the Country were Charged at 32 Gallons to the Barrel, but by the Act 1st. <hi>W. M.</hi> all such Brewers and Victuallers are allowed 34 Gallons to the Barrel.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In the Year ending Midsummer 1690. there was Charged upon the Victuallers in the Country 2.826.603 Barrels of Strong Drink, at 34 Gallons to the Barrels: had this been Charged 32 Gallons to the Barrel, it would have made 176.662 Barrels more; the Duty of which comes to</cell>
+                     <cell>22.082</cell>
+                  </row>
+                  <row>
+                     <cell>The Victuallers Small Drink Charged the same Year, was 1.294.678 Barrels: this at 32 Gal<g ref="char:EOLhyphen"/>lons to the Barrel, would have made 80.917 Barrels more; the Duty of which comes to</cell>
+                     <cell>20.22</cell>
+                  </row>
+                  <row>
+                     <cell>And, on the same Account, there ought to be Allowed, for Drink Charged on the Common Brewers in the Country, about</cell>
+                     <cell>5.000</cell>
+                  </row>
+                  <row>
+                     <cell>Sum is</cell>
+                     <cell>29.104</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="20" facs="tcp:30615:11"/>
+            <p>So that the Allowances to be made on this Head are about 29.104 <hi>l. per Annum,</hi> whereas he makes them but 20, or at most but 21.000 <hi>l. per Ann.</hi>
+            </p>
+            <p>The Allowances he has made, on Ac<g ref="char:EOLhyphen"/>count of the Additional Duties will stand thus,
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="7">Year ending the 24<seg rend="sup">th</seg> of <hi>June</hi>
+                     </cell>
+                     <cell>1690.</cell>
+                     <cell rows="7">he allows</cell>
+                     <cell>8.000</cell>
+                  </row>
+                  <row>
+                     <cell>1691.</cell>
+                     <cell>9.000</cell>
+                  </row>
+                  <row>
+                     <cell>1692.</cell>
+                     <cell>30.000</cell>
+                  </row>
+                  <row>
+                     <cell>1693.</cell>
+                     <cell>27.000</cell>
+                  </row>
+                  <row>
+                     <cell>1694.</cell>
+                     <cell>26.000</cell>
+                  </row>
+                  <row>
+                     <cell>1695.</cell>
+                     <cell>26.000</cell>
+                  </row>
+                  <row>
+                     <cell>1696.</cell>
+                     <cell>26.000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Before the 17th. of <hi>November</hi> 1690. the Duty was but 3 <hi>s.</hi> 3 <hi>d.</hi> a Barrel; But from the 17th. of <hi>November</hi> 1690. to the 17th. of <hi>November</hi> 1692. the Duties were double, <hi>viz.</hi> 6 <hi>s.</hi> 6 <hi>d.</hi> a Barrel. This was so great a Burthen upon the Victuallers, that great Numbers of them left off their Trade: As may appear by the following Table, in which I have set down the Number of Common Brewers and Victuallers in the whole King<g ref="char:EOLhyphen"/>dom, for Six Years, together with the Num<g ref="char:EOLhyphen"/>ber of Barrels of Strong Drink which was charged upon them in each Year respe<g ref="char:EOLhyphen"/>ctively.</p>
+            <pb n="21" facs="tcp:30615:11"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Year ending Midsummer</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Common Brewers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Victuallers</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Barrels of Strong Drink Charged</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1689</cell>
+                     <cell>762</cell>
+                     <cell>47.935</cell>
+                     <cell>5.134.309</cell>
+                  </row>
+                  <row>
+                     <cell>1690</cell>
+                     <cell>782</cell>
+                     <cell>47.563</cell>
+                     <cell>4.690.711</cell>
+                  </row>
+                  <row>
+                     <cell>1691</cell>
+                     <cell>799</cell>
+                     <cell>43.753</cell>
+                     <cell>4.069.545</cell>
+                  </row>
+                  <row>
+                     <cell>1692</cell>
+                     <cell>828</cell>
+                     <cell>40 691</cell>
+                     <cell>3.796.805</cell>
+                  </row>
+                  <row>
+                     <cell>1693</cell>
+                     <cell>775</cell>
+                     <cell>39.178</cell>
+                     <cell>3.529.498</cell>
+                  </row>
+                  <row>
+                     <cell>1694</cell>
+                     <cell>722</cell>
+                     <cell>39.069</cell>
+                     <cell>3.505.470</cell>
+                  </row>
+               </table>
+            </p>
+            <p>By this it appears what effect the dou<g ref="char:EOLhyphen"/>bling of the Duty had, as to the Number of Brewers and Victuallers; for notwith<g ref="char:EOLhyphen"/>standing it did not commence till <hi>November</hi> 1690. yet the Number of Victuallers at Midsummer 1691. was near 4000 less than at Midsummer 1690. The next Year they fell about 3000 more, and they have still fallen more or less every Year; whereas he allows on this Account but 9000 <hi>l.</hi> in the Year ending Midsummer 1691. The next Year he allows 30.000 <hi>l.</hi> The next 27.000 <hi>l.</hi> and the next after that 26.000 <hi>l.</hi> as if the effect of Doubling the Duty began to wear off, by the Victuallers taking up their Trades again. But the contrary is evident by what is above Represented, and it may be made appear that the Number of Victuallers in the Year ending Midsummer 1697. was near 12000 less than at Midsummer 1689. So
+<pb n="22" facs="tcp:30615:12"/> that the Allowances he has made on Account of the Double Duty, is very much short of What it ought to have been, and his Al<g ref="char:EOLhyphen"/>lowances upon the other Heads seem to be but mere Conjecture.</p>
+            <p>He tells us, (<hi>p.</hi> 92.) <hi>The former Mana<g ref="char:EOLhyphen"/>gers left</hi> London <hi>to the succeeding Commis<g ref="char:EOLhyphen"/>sioners settled in a good Method, and supply'd with Able Officers, which Method had not been Changed, nor were the Officers Alter'd till</hi> 1695. London <hi>did therefore hold up till then.</hi>
+            </p>
+            <p>He formerly talk'd of <hi>Allegations without Doors;</hi> but here he is positive not only without Reason, but in Contradiction to his own Account in his first Scheme, from whence I shall take leave to transcribe the Annual Gross Produce of the Single Duty on Beer and Ale in <hi>London.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Year ending</hi> 24th. <hi>of</hi> June</cell>
+                     <cell role="label">London, <hi>Beer and Ale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <hi>l. s. d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1690</cell>
+                     <cell>154.286:03:00</cell>
+                  </row>
+                  <row>
+                     <cell>1691</cell>
+                     <cell>143.090:11:09</cell>
+                  </row>
+                  <row>
+                     <cell>1692</cell>
+                     <cell>144.860:14:04 ½</cell>
+                  </row>
+                  <row>
+                     <cell>1693</cell>
+                     <cell>135.391:19:10 ½</cell>
+                  </row>
+                  <row>
+                     <cell>1694</cell>
+                     <cell>128 650:08:00</cell>
+                  </row>
+                  <row>
+                     <cell>1695</cell>
+                     <cell>119.519:03:00</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="23" facs="tcp:30615:12"/>
+            <p>By this it appears that the Brewery in <hi>London</hi> did fall every Year, (except one) from 1690. to 1695. and that in two of those Years (before 1695. in which, he saith, the Methods and Officers were chan<g ref="char:EOLhyphen"/>ged) the Fall was greater than in <hi>that</hi> Year.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l. s. d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Thus in the year ending Midsummer, 1691. it fell</cell>
+                     <cell>11.195:11:03</cell>
+                  </row>
+                  <row>
+                     <cell>In the year ending Midsummer 1693. it fell again</cell>
+                     <cell>11.468:14:06</cell>
+                  </row>
+                  <row>
+                     <cell>In the year ending Midsummer 1694. it fell again</cell>
+                     <cell>6.741:11:10 ½</cell>
+                  </row>
+                  <row>
+                     <cell>Whereas in the year ending Midsum. 1695. it fell but</cell>
+                     <cell>9.059:05:00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And yet this Author affirms, that <hi>London held up till</hi> 1695. But perhaps <hi>Political-Arithmetick</hi> gives a Man a Priviledge to con<g ref="char:EOLhyphen"/>tradict himself.</p>
+            <pb n="24" facs="tcp:30615:13"/>
+            <p>He suggests (<hi>p.</hi> 92.) that in 1695. <hi>The old Methods were broken into, and inferiour Officers brought into Play, utterly unknowing in the Brewery.</hi>
+            </p>
+            <p>An Officer's Knowledg is best seen by his Practice, and from this there is good Reason to believe, that if these New Offi<g ref="char:EOLhyphen"/>cers and New Methods he complains of had been try'd sooner, the Brewery had Advanced sooner; for the first Week those Methods were put in Practice, (which was about Midsummer 1695.) the Brewery Advanced 1000 Barrels, nor was this by <hi>Chance, Force,</hi> or <hi>Power;</hi> for it continued to advance eve<g ref="char:EOLhyphen"/>ry Week more and more, insomuch that the whole Amount of the year ending Midsum<g ref="char:EOLhyphen"/>mer 1696. was about 23.700 <hi>l.</hi> more than the former year; and there were more Frauds discover'd by the New Officers (which, he saith, <hi>were utterly unknowing in the Brewery</hi>) in five or six <hi>Months</hi> of that year, than had been discover'd in the whole City in as many <hi>Years</hi> before.</p>
+            <p>He grants (<hi>p.</hi> 93.) that the Brewery in <hi>London</hi> did Advance in the year ending Midsummer 1696. but saith it was by <hi>Cour<g ref="char:EOLhyphen"/>ses so unnatural as are not like to hold.</hi>
+            </p>
+            <pb n="25" facs="tcp:30615:13"/>
+            <p>Time will best shew; that, as yet there is no great reason to Complain; for the year ending Midsummer 1697. did not fall full 4000 <hi>l.</hi> and if the Fall hath been greater since, it may well be attributed to the Dear<g ref="char:EOLhyphen"/>ness of Malt and Hops, and the Decay of Trade. The Fall in the Country has been much more Considerable, as it needs must; for besides other Reasons that might be of<g ref="char:EOLhyphen"/>fer'd, <hi>There are above</hi> 5000 <hi>Victuallers laid down since Midsummer</hi> 1696.</p>
+            <p>But <hi>'tis evident</hi> (he saith <hi>p.</hi> 104.) <hi>that in these two last Years, there have been treble the Number of Complaints, Informations, Contro<g ref="char:EOLhyphen"/>versies, Law-Suits and Appeals concerning this Duty, than happen'd in the whole Six Years of the former Management.</hi> And he insinuates (<hi>p.</hi> 86) that these Informations were <hi>Frivo<g ref="char:EOLhyphen"/>lous,</hi> the Fines <hi>Unreasonable,</hi> and the Prose<g ref="char:EOLhyphen"/>cutions <hi>Oppressive</hi> and <hi>Vexatious.</hi>
+            </p>
+            <p>As to the Number of <hi>Informations,</hi> 'tis probable there may have been more brought in the Two years last past than in <hi>Ten</hi> years before: And this shews the Officers have been more diligent in detecting the Brewers Frauds than formerly. And tho the pre<g ref="char:EOLhyphen"/>sent Commissioners have not agreed to let such Informations drop, after they have
+<pb n="26" facs="tcp:30615:14"/> heard full Proof of the Fact made before them (as was very frequently done in the Six years of the former Management,) but a Majority of them have in such Cases giv<g ref="char:EOLhyphen"/>en Judgment for the Penalties incurr'd, yet this was no Just Ground for the many Ap<g ref="char:EOLhyphen"/>peals he talks of; for upon Hearing such Appeals those Commissioners have not found Cause to Reverse many of the Judgments Past below. Which shews that the Prose<g ref="char:EOLhyphen"/>cutions have not been so <hi>Oppressive</hi> and <hi>Vex<g ref="char:EOLhyphen"/>atious,</hi> nor the Fines so <hi>Unreasonable</hi> as this Author would Suggest.</p>
+            <p>As for <hi>Law-Suits;</hi> there have been several great Debts contracted many years since, (some of them in the time of his Six years Management) Suits were then commenced, and after some years Process let fall, or continued without Effect. Now, if the pre<g ref="char:EOLhyphen"/>sent Commissioners (upon Enquiry into these Matters) have found Cause to revive such Process, and by so doing have recove<g ref="char:EOLhyphen"/>red very considerable Debts, long-since con<g ref="char:EOLhyphen"/>tracted, and thought to have been despe<g ref="char:EOLhyphen"/>rate. All Impartial Judges will think they have done their Duty, whatever this Gen<g ref="char:EOLhyphen"/>tleman may Suggest to the contrary.</p>
+            <pb n="27" facs="tcp:30615:14"/>
+            <p>He saith (<hi>p.</hi> 104.) <hi>'Tis certainly better for a Prince to lose something in his Revenue, than that his Officers should be Oppressive and Vexatious to the People.</hi> No body doubts this: but what is the Consequence? why he tells us, <hi>The Management of that Branch can hardly be right where the Clamours are more and the Produce less than formerly.</hi>
+            </p>
+            <p>But will this Author say, <hi>'Tis certainly better</hi> for the King, that Debts of 6 or 800<hi>l.</hi> should stand out Six or Eight years, when the Creditors have Estates to answer them, than that such Debts should be sued for and recovered: Or that the Brewers in <hi>London</hi> should be permitted to make use of Private Backs and Tuns, by which some of them have defrauded the King of near 1000<hi>l. per. Ann.</hi> than that such Frauds should be Dete<g ref="char:EOLhyphen"/>cted, and the Penalties inflicted on such Of<g ref="char:EOLhyphen"/>fenders. Or is it <hi>better</hi> for the King, that many of the Richest Brewers in <hi>London</hi> should keep 1000 <hi>l.</hi> of the Duty in their hands for several years together, than that such Brewers be obliged to pay their Duty as the Law directs, or at least within a Month after 'tis due. These are the Points in Question, and which have occasioned the <hi>Clamours</hi> (if any be) that he talks of. But you will not any where find more Cla<g ref="char:EOLhyphen"/>mours
+<pb n="28" facs="tcp:30615:15"/> about the Management of this Re<g ref="char:EOLhyphen"/>venue than in this Authors Book, and for ought that yet appears, the Management of this Branch may be <hi>right,</hi> tho the <hi>Clamours are more, and the Produce less than formerly.</hi>
+            </p>
+            <p>What he has hitherto said in this Dis<g ref="char:EOLhyphen"/>course, relates chiefly to the Single Excise (which is 2<hi>s.</hi> 6<hi>d.</hi> a Barrel.) But in his se<g ref="char:EOLhyphen"/>cond Scheme he adds, That <hi>from</hi> 1690. <hi>In<g ref="char:EOLhyphen"/>clusive, to</hi> 1696. <hi>Inclusive, the Duties upon Strong Drink were Doubled within</hi> 3 <hi>Pence, and</hi> 3 <hi>Pence more than doubled upon Small Beer: So that the. Loss would come Double to the King.</hi> And (<hi>p.</hi> 102.) <hi>He cannot help being of Opinion, that by Changing the Former Methods and Course of Management there has been lost to the King, from</hi> 1690. <hi>to</hi> 1696. <hi>the Sum of</hi> 1.136.640.</p>
+            <p>He cannot help being of this Opinion: but it doth not appear what Grounds he has for it, besides <hi>Allegations without Doors.</hi> And false Reports he has met with, of <hi>Changing the former Course of Management,</hi> which, with his own loose Computations, he may possi<g ref="char:EOLhyphen"/>bly think are a full Proof of the Fact, and that these would pass without Examina<g ref="char:EOLhyphen"/>tion.</p>
+            <pb n="29" facs="tcp:30615:15"/>
+            <p>He tells us (<hi>p.</hi> 102.) The Single and Double Duties [on Beer and Ale] for the Year ending <hi>June</hi> 24. 1697. produced but 914.000 <hi>l.</hi> whereas it ought to have produ<g ref="char:EOLhyphen"/>ced 1.232.000 <hi>l.</hi> But why ought it to have produced so much? He tells us (<hi>p.</hi> 103.) <hi>Because this Branch of our Consumption,</hi> [that is, of Beer and Ale] <hi>has born such a Duty, as to yield, Year ending</hi> June 24th. 1692. <hi>Gross Total</hi> 1.394.008 <hi>l.</hi> But the Year ending Midsummer 1662. the Duties on Beer and Ale produced but 1.343.752 <hi>l.</hi> 11 <hi>s.</hi> 9 <hi>d.</hi> (as appears by the Comptrollers Books) so that he is out in his Computati<g ref="char:EOLhyphen"/>on above 50.000 <hi>l.</hi> But granting that in the Year ending Midsummer 1692. a Duty of 6 <hi>s.</hi> 6 <hi>d.</hi> a Barrel had produced 1.394.008 <hi>l.</hi> Does it from thence follow, That a Duty of 4<hi>s.</hi> 9 <hi>d.</hi> a Barrel, in the Year 1697. <hi>ought to have produced</hi> 1.232.000 <hi>l.?</hi> By no means, for</p>
+            <p>As 6<hi>s.</hi> 6<hi>d.</hi> or 78 <hi>d.</hi> is to 1.394.008 <hi>l.</hi>
+            </p>
+            <p>So is 4<hi>s.</hi> 9<hi>d.</hi> or 57<hi>d.</hi> to 1.015.237 <hi>l.</hi>
+            </p>
+            <p>Whereas he makes 1.232.000 <hi>l.</hi>
+            </p>
+            <p>Which is 216 763 <hi>l.</hi> more.</p>
+            <pb n="30" facs="tcp:30615:16"/>
+            <p>He grants (<hi>p.</hi> 102.) that the Single and Double Duty, in the Year ending Midsum<g ref="char:EOLhyphen"/>mer 1697, produced 914.000 <hi>l.</hi> and there<g ref="char:EOLhyphen"/>fore the Single Duty must have been 481.052 <hi>l.</hi> And yet he affirmed (<hi>p.</hi> 88.) that the Single Duty, for the same Year, was but 438.413 <hi>l.</hi> So that here he is out again above 42.500 <hi>l.</hi>
+            </p>
+            <p>He complains (<hi>p.</hi> 34.) That <hi>the Commissi<g ref="char:EOLhyphen"/>oners of Excise have refused him any Inspecti<g ref="char:EOLhyphen"/>on into their Books.</hi> And tells us (<hi>p.</hi> 266.) <hi>He has met extream Difficulty and Opposition in procuring the Sight of the Accompts relating to the Revenue.</hi> However he has had a Sight of some of these Accompts, and is there Answerable for the ill Use he has made of them. But supposing the Commissioners of Excise did refuse him <hi>any Inspection into their Books,</hi> they might have very good Reasons for so doing; and such Refusal would much better have Excused his not writing on this Subject, than the false Account he has given of the Revenue, and of the Conduct of the Persons concerned in the Management of it.</p>
+            <pb n="31" facs="tcp:30615:16"/>
+            <p>But it seems very extraordinary that this Author should Complain, that he was re<g ref="char:EOLhyphen"/>fused any Inspection into the Excise-Books, and Own that the Accompts for the Year ending Midsummer 1697. are not made up, and yet take upon him to tell, not only what the Produce of that year Was, but also what it ought to have been. But one cannot imagine what Strange Feats may be done by <hi>Reasoning by Figures upon Things.</hi>
+            </p>
+            <p>He tells us (<hi>p</hi> 25.) <hi>If some of the Men of Business had consulted Political Arithmetick, the Parliament had not been troubled every Ses<g ref="char:EOLhyphen"/>sions to make good so many deficient Funds.</hi> And (<hi>p.</hi> 27.) <hi>The Projectors of New Funds have hi<g ref="char:EOLhyphen"/>therto been generally mistaken two parts in three.</hi>
+            </p>
+            <p>I would ask this <hi>Man of Business,</hi> whe<g ref="char:EOLhyphen"/>ther he <hi>consulted Political Arithmetick</hi> when he told us, in his <hi>Essay</hi> upon Ways and Means (<hi>p.</hi> 137.) that a Duty of 6 <hi>d.</hi> a Bu<g ref="char:EOLhyphen"/>shel upon Malt would produce 1.050.000 <hi>l. per An.</hi> or whether he could not then <hi>help being</hi> of that Opinion. Or whether, if the Parliament had then laid 6<hi>d.</hi> a Bushel upon Malt, they would not by this time have had the Trouble, of making good another Deficient Fund. But he <hi>now</hi> Retracts what he said <hi>then;</hi> and notwithstanding his <hi>Poli<g ref="char:EOLhyphen"/>tical
+<pb n="32" facs="tcp:30615:17"/> Arithmetick,</hi> by which he then compu<g ref="char:EOLhyphen"/>ted, he tells us (<hi>p.</hi> 105.) <hi>He had not then before him so Nice an Enquiry into the several Ranks and Classes of Men, as he has since pro<g ref="char:EOLhyphen"/>cured.</hi> We may therefore now expect the true Effects of <hi>Reasoning upon Things by Fi<g ref="char:EOLhyphen"/>gures.</hi> And yet one may be tempted to think, that the most <hi>wretched Projector</hi> that ever put Pen to Paper, never offer'd any thing more Crude and Trifling, than what he here discourses concerning the Du<g ref="char:EOLhyphen"/>ties on <hi>Malt, Salt,</hi> and <hi>Leather.</hi>
+            </p>
+            <p>This Author told us, in his <hi>Essay</hi> on Ways and Means (<hi>pag.</hi> 136.) that <hi>the People of</hi> England, <hi>by the nearest Computation that can be made, were reckoned</hi> 7.000.000.</p>
+            <p>But now (<hi>p.</hi> 105. of these Discourses) he tells us, <hi>He would not be understood to deli<g ref="char:EOLhyphen"/>ver any determinate Opinion, what Number of Inhabitants the Kingdom may contain</hi> (that is, he will not take upon him to tell Noses,) and yet (<hi>p.</hi> 108.) he reckons himself so sure in the Numbers of the People (which he there computes to be 5.500.000.) that if the Duty upon Malt does not reach full 650.000 <hi>l. it must proceed, rather from some Defect in the Management, than any Deficiency in the Fund.</hi>
+            </p>
+            <pb n="33" facs="tcp:30615:17"/>
+            <p>And to make out this,
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>Bushels.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He computes (<hi>p.</hi> 106.) the Barly Land, in <hi>England,</hi> will yearly produce</cell>
+                     <cell>34.000.000.</cell>
+                  </row>
+                  <row>
+                     <cell>Of this he supposes there is Malted</cell>
+                     <cell>24.000.000</cell>
+                  </row>
+                  <row>
+                     <cell>That this will produce in Malt</cell>
+                     <cell>26.000.000</cell>
+                  </row>
+                  <row>
+                     <cell>This at 6 <hi>d.</hi> a Bushel, a<g ref="char:EOLhyphen"/>mounts to</cell>
+                     <cell>650.000 <hi>l.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>He tells us, (<hi>p.</hi> 109.) <hi>The Stock of Malt is about a Third of the whole Years Produce.</hi> And,
+<table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>According to this Position, which,</hi> (he says,) <hi>seems pretty right if the Duty on Malt will produce</hi>
+                     </cell>
+                     <cell>650.000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Stock ought to have answer'd</hi>
+                     </cell>
+                     <cell>216.666</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Stock has answer'd but about</hi>
+                     </cell>
+                     <cell>150.000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Which multiplied by</hi> 3, <hi>is but</hi>
+                     </cell>
+                     <cell>450 000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>And therefore he concludes, there may be lost, by Mis-management,</hi> per Annum</cell>
+                     <cell>200.000</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="34" facs="tcp:30615:18"/>
+            <p>This Gentleman (<hi>p.</hi> 33.) owns <hi>himself ve<g ref="char:EOLhyphen"/>ry much guided, in these Discourses, by the lit<g ref="char:EOLhyphen"/>tle Skill he has attain'd to in this way of argu<g ref="char:EOLhyphen"/>ing upon Things by Figures, (a Way not com<g ref="char:EOLhyphen"/>monly practiced,</hi> as he owns <hi>p.</hi> 2.) But if he had kept to the Old way of Arguing upon Things by <hi>Reason,</hi> he would have seen, that all he has here said, about the Duty upon Malt, is a shameful Begging of the Question.</p>
+            <p>For it doth not (neither can it yet) ap<g ref="char:EOLhyphen"/>pear that this Duty will produce 650.000 <hi>l. per An.</hi> Nor that the Stock of Malt was a Third part of the Years Produce. And if both these were granted, it does not follow that <hi>the Stock in hand</hi> (when the Duty com<g ref="char:EOLhyphen"/>menced) <hi>ought to have produced</hi> 216.666 <hi>l.</hi> For (as he could not but know) the Act was not published till after the 20th of <hi>A<g ref="char:EOLhyphen"/>pril,</hi> (the day on which the Duty commen<g ref="char:EOLhyphen"/>ced) and all the Kingdom had notice of this Duty long before. Great Numbers of Gen<g ref="char:EOLhyphen"/>tlemen and others bought in a Store of Malt sufficient to serve them a year or two, if not the whole Term; all which Malt so bought, before the 20th of <hi>April,</hi> could not be Charged with the Duty, as Stock in hand. Not to mention what was spent by the Common-Brewers and Victuallers, who
+<pb n="35" facs="tcp:30615:18"/> Brewed Day and Night to consume their Stock of Malt before the Duty commen<g ref="char:EOLhyphen"/>ced. But supposing that by Mismanage<g ref="char:EOLhyphen"/>ment there had been lost 66.666 <hi>l.</hi> of the Stock in hand, does it follow that there will be 200.000 <hi>l. per An.</hi> lost in the Ma<g ref="char:EOLhyphen"/>nagement of the growing Duty. This is what he would insinuate, but dares not as<g ref="char:EOLhyphen"/>sert; for after a pompous Scheme of <hi>Pre<g ref="char:EOLhyphen"/>mises,</hi> his <hi>Conclusion</hi> comes up but to a bare <hi>May be.</hi>
+            </p>
+            <p>You may see in the Page cited how he dis<g ref="char:EOLhyphen"/>posed of his Thirty four Millions of Bushels of Barly, <hi>viz.</hi> Twenty four Millions made into Malt, and Ten Millions for Bread-Corn, Seed-Corn, <hi>&amp;c.</hi> And yet (<hi>p.</hi> 143.) he will have the whole Thirty four Millions of Bushels of Barly made into Malt, and this, he saith, will produce Thirty six Millions of Bushels of Malt; and from hence he concludes, that the Duty on Malt should yield 650 000 <hi>l. per An.</hi> whereas before he Computed that Twenty six Millions of Bu<g ref="char:EOLhyphen"/>shels would produce 650.000 <hi>l.</hi> But let the Quantity of Malt yearly made be more or less (for with him Ten Millions in Thir<g ref="char:EOLhyphen"/>ty six makes no Difference) the Duty ought to be 650.000 <hi>l. per An.</hi> and so much as it falls short, so much is lost by Mismanage<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="36" facs="tcp:30615:19"/>
+            <p>As to the Duty on Salt, he supposes (<hi>p.</hi> 110.) there is 5.500.000 of Persons in the whole Kingdom, and that these, upon a <hi>medium,</hi> do consume half a Bushel of Salt <hi>per</hi> Head <hi>per Annum.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>So that the old Duty of 12<hi>d.</hi> a Bushel upon Salt <hi>should have produced, by a medium of</hi> 3 <hi>Years.</hi>
+                     </cell>
+                     <cell>137.500</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>But by a Medium of</hi> 3 <hi>Years, it has yielded</hi> per Ann. <hi>no more than</hi>
+                     </cell>
+                     <cell>99.425</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>So that there seems lost in this Duty</hi> per An. <hi>about</hi>
+                     </cell>
+                     <cell>38.075</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now in Answer to this, one need do no more than invert his Argument, by saying, the Duty of 12 <hi>d.</hi> a Bushel upon Salt, upon a <hi>medium</hi> of Three years has produc'd but 99.425 <hi>l.</hi> Therefore the People in <hi>England,</hi> (supposing them to be five Millions and an half) have not Consumed half a Bushel of Salt <hi>per</hi> Head, <hi>per An.</hi> Or thus,</p>
+            <pb n="37" facs="tcp:30615:19"/>
+            <p>The Duty of 12 <hi>d.</hi> a Bushel on Salt has Produced but 99.425 <hi>l. per An.</hi> To make this Sum, there must have been 1.989.040 Bushels charged. The Mass of Mankind spend half a Bushel of Salt <hi>per</hi> Head <hi>per An.</hi> Therefore the People in <hi>England</hi> are but 3.978.080 in Number. You will perhaps say, this is Trifling, and yet I cannot see but the Consequence in these Arguments is every whit as Strong and Natural, as in what this Author has here laid down con<g ref="char:EOLhyphen"/>cerning the Duty upon Salt.</p>
+            <p>As to the Duty upon <hi>Leather.</hi> He sup<g ref="char:EOLhyphen"/>poses (<hi>p.</hi> 111.) that <hi>the People of</hi> England <hi>had by 'em in Stock,</hi> (when the Act commen<g ref="char:EOLhyphen"/>ced) <hi>one Fourth part of the whole Consumption,</hi> and tells us,
+<table>
+                  <row>
+                     <cell>
+                        <hi>The Parliament gave this Duty for</hi> per An.</cell>
+                     <cell>179.859:06:8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Stock therefore should have produced</hi>
+                     </cell>
+                     <cell>44.964:16:8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>The Stock has Produ<g ref="char:EOLhyphen"/>ced only</hi>
+                     </cell>
+                     <cell>14.030</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>So there seems lost in the Stock of Leather</hi>
+                     </cell>
+                     <cell>30.934</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="38" facs="tcp:30615:20"/>
+            <p>This Author has not offer'd any thing to Prove, or make it probable, that <hi>the Stock was a Fourth part of the whole Consumption.</hi> And if the Parliament gave this Duty for 179.859 <hi>l.</hi> 16 <hi>s.</hi> 8 <hi>d. per Ann.</hi> as he affirms, that is no Argument that it will produce so much. And if all this were granted, it does not follow, that <hi>the Stock should have produced</hi> 44.964 <hi>l.</hi> 16 <hi>s.</hi> 8 <hi>d.</hi> For this Duty commen<g ref="char:EOLhyphen"/>cing before the Act was published, the Peo<g ref="char:EOLhyphen"/>ple had time to Cut, Conceal or Export a great part of their Stock of Leather, before the Officers were Authorised to take any Account of it, or secure the Duty imposed by the Act. And therefore, tho <hi>the Stock has produced but</hi> 14.030 <hi>l.</hi> it does not follow, that there was lost (or seem to have been lost) 30.934 <hi>l.</hi> (as he suggests <hi>p.</hi> 110.) But supposing that, through Want of Time, and Skill in the Officers, to ascertain the Duty on the Stock in hand, a great Part of it was Lost: Will this Affect the Annual Du<g ref="char:EOLhyphen"/>ty for time to come? <hi>Yes,</hi> he tells us, <hi>If we are to judg of the Future Management by what the Stock has yielded, there are Reasons to Apprehend, that in this Branch there will be likewise lost about</hi> 30.000 <hi>l. per Annum.</hi> This is his Way of Reasoning: And <hi>if we are to judg</hi> of his Understanding by what he has here said, concerning the Duties on <hi>Malt,
+<pb n="39" facs="tcp:30615:20"/> Salt</hi> and <hi>Leather, there are Reasons to Appre<g ref="char:EOLhyphen"/>hend,</hi> as great a Deficiency in <hi>that,</hi> as in any of the Funds here discoursed of. For all that he has said in Five or Six Pages together (granting all his Computations right) a<g ref="char:EOLhyphen"/>mounts to no more than this, <hi>viz. There may be lost</hi> so much in <hi>that</hi> Duty, and <hi>There seems lost</hi> so much in <hi>this.</hi> And yet notwithstan<g ref="char:EOLhyphen"/>ding this loose way of Arguing and Compu<g ref="char:EOLhyphen"/>ting, he insinuates (<hi>p.</hi> 112.) that, by the Negligence or Corruption of the Officers of Excise, there is lost, in the four Branches under their Management, the Respective Sums following, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>In the Excise on Beer and Ale</hi>
+                     </cell>
+                     <cell>318.000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>In the Malt</hi>
+                     </cell>
+                     <cell>200.000</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>In the Salt</hi>
+                     </cell>
+                     <cell>38.075</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>In the Leather</hi>
+                     </cell>
+                     <cell>30.000</cell>
+                  </row>
+                  <row>
+                     <cell role="total">
+                        <hi>Total Loss</hi>
+                     </cell>
+                     <cell>586.075</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now, to what purpose is all this? why he tells us, (<hi>p.</hi> 112, 113.) <hi>He endeavoured to Compute the Produce of Malt, Salt and Lea<g ref="char:EOLhyphen"/>ther, because these three Branches are under the same Managers, [viz.</hi> of the Commissioners of Excise,] <hi>and the Revenues arising from thence, being a Security to the People for large Sums, he thought it for the Service of the Pub<g ref="char:EOLhyphen"/>lick
+<pb n="40" facs="tcp:30615:21"/> to shew, what these Duties may probably yield when they come to be understood.</hi>
+            </p>
+            <p>'Tis almost Four years since the Duty on Salt commenc'd, and it seems very strange it should not yet be understood. One would think the Managers should understand this, and the other Duties as well as this Gen<g ref="char:EOLhyphen"/>tleman, whose <hi>Closet-Speculations</hi> (upon these Branches) <hi>have not been enlightened and assisted by Practice and Experience.</hi> But the Com<g ref="char:EOLhyphen"/>missioners of Excise do often stand in this Author's Way, and he here endeavours to Traduce their Management, by insinuating to the People, who have lent large Sums up<g ref="char:EOLhyphen"/>on these Branches, that the Deficiency of these Funds is owing to the Ignorance of the Managers.</p>
+            <p>But he goes on (<hi>p</hi> 113.) <hi>Being informed, that to Collect these Three Revenues [viz.</hi> of Salt, Malt and Leather] <hi>there have been crea<g ref="char:EOLhyphen"/>ted lately a great Number of New Officers, we cannot help saying, that</hi> 170 <hi>Persons, added to the present Officers, employ'd in the Customs and Excise, may very well look after and Col<g ref="char:EOLhyphen"/>lect all the Excises or New Impositions that can possibly be laid in this Kingdom.</hi>
+            </p>
+            <pb n="41" facs="tcp:30615:21"/>
+            <p>This is deliver'd with an Air of Assu<g ref="char:EOLhyphen"/>rance; but lest it should not be taken no<g ref="char:EOLhyphen"/>tice of, he Repeats it in the same Page, — <hi>A Competent Encouragement to those</hi> [Officers] <hi>already employ'd in the Old Re<g ref="char:EOLhyphen"/>venues, with a small Addition of Hands, will enable the present Officers to Collect any New Duties the Parliament has given, or shall think fit to grant.</hi>
+            </p>
+            <p>This Writer is so full of himself, that he'll undertake for any thing, he'll tell you what Number of Officers, and what Ex<g ref="char:EOLhyphen"/>pence is necessary to manage all the Duties that have been, or hereafter shall be grant<g ref="char:EOLhyphen"/>ed: He Computes (<hi>p.</hi> 114.) 170 New Of<g ref="char:EOLhyphen"/>ficers, with an Additional Salary to 40 Col<g ref="char:EOLhyphen"/>lectors, 40 Supervisors, and 1200 Gaugers of the Excise, the Charge of all which, with other Incidents, he allows to be 25.900 <hi>l. per Annum.</hi> And tells us, <hi>That, at this Ex<g ref="char:EOLhyphen"/>pence, and by such an Addition only of Officers, may be Collected the Duties on Malt, Salt and Leather, or any other new Imposition which the Parliament may hereafter think fit to lay on the Consumption of our Home Commodities.</hi>
+            </p>
+            <pb n="42" facs="tcp:30615:22"/>
+            <p>All this might pass well enough for <hi>Spe<g ref="char:EOLhyphen"/>culations in the Closet, which have not been enlightened and assisted by Practice and Experi<g ref="char:EOLhyphen"/>ence,</hi> (as p. 13.) And perhaps it will appear to be no more, notwithstanding he tells us, (<hi>p.</hi> 113.) that Himself <hi>has vifited very near every Collection and District; and is, in some measure, acquainted with the Riding and Di<g ref="char:EOLhyphen"/>stinct Business of every Gauger in</hi> England.</p>
+            <p>As to the Number of Gaugers, I suppose they might be about 1000. or 1100. at the Time of the Revolution; to which there might be some Addition made upon the Commencement of the Double Duty, and the Number of Supervisors was almost dou<g ref="char:EOLhyphen"/>ble what he mentions.</p>
+            <p>The Duty on Salt, requiring the con<g ref="char:EOLhyphen"/>stant Attendance of Officers at the Salt-Works, could not be ascertain'd and col<g ref="char:EOLhyphen"/>lected, by the Officers of Excise; and tho the Duties on Malt and Leather, be under the Inspection of the Officers of Excise, yet the Number of People chargeable with these Duties, being equal to, or greater than the Number of Brewers and Victual<g ref="char:EOLhyphen"/>lers, it was found necessary to make several new Collectors, and Supervisors, and to make an Addition of new Gaugers, about
+<pb n="43" facs="tcp:30615:22"/> twice 170. the Number by him propos'd; and tho' the whole Kingdom has been new-modell'd, and the Officers Districts made as equal as could be, yet many of them are still too large, some Officers having 40 or 50 Miles Riding, and about 200 Maltsters to survey, besides Victuallers and Tanners. And therefore this Author (who Boasts of the Experience he has attain'd by <hi>Visiting every Collection, and acquainting himself with the Riding, and distinct Business of every Gauger in</hi> England) seems to have a very Crude Notion of this Matter, when he tells us, that 170 <hi>New Officers, with an ad<g ref="char:EOLhyphen"/>ditional Salary to those already employ'd, will enable the Present Officers to collect all the Excises or new Impositions that can possibly be laid in this Kingdom;</hi> and tho he inculcates this Doctrin three times in the compass of two Pages, you will hardly believe that an Officer, who had his Hands full of Busi<g ref="char:EOLhyphen"/>ness before those Duties commenc'd, should be enabled to do twice as much, by the help of a small Addition to his Salary.</p>
+            <p>He goes on to shew what is lost by Mismanagement, in the Duties on <hi>Parch<g ref="char:EOLhyphen"/>ment</hi> and <hi>Paper, Marriages, Births,</hi> and <hi>Bu<g ref="char:EOLhyphen"/>rials;</hi> the <hi>Duties</hi> on <hi>Windows,</hi> and on <hi>Glass-Ware, Earthen-Ware,</hi> and <hi>Tobacco-Pipes,</hi> (for nothing can escape a Computing Head) and
+<pb n="44" facs="tcp:30615:23"/> then he sums up (what he calls) the Annual Loss upon all the Branches, and makes the Whole to be 736.075 <hi>l.</hi>
+            </p>
+            <p>And then he tells us (<hi>p.</hi> 120.) <hi>Seven Hundred Thousand Pounds Annual Income, is a Sum not to be slighted, in a Country where 'tis so very difficult to find out Ways and Means of Raising Money; and if the Duties already granted (not including what expires upon Malt and Leather,</hi> &amp;c.) <hi>can be so Improv'd as to reach the fore-mention'd Sum</hi> (that is, the Sum of 506.075 <hi>l.</hi> which he tells us (<hi>p.</hi> 119.) is yealry lost in the Duties of <hi>Excise</hi> of <hi>Salt, Paper</hi> and <hi>Parchment, Marriages, Births</hi> and <hi>Burials, Windows, Glass</hi> and <hi>Earthen-Wares,</hi> &amp;c. which he repeats again <hi>p.</hi> 227.) <hi>the Gross Debt of</hi> England <hi>in Ten Years will be thereby lessen'd about</hi> 5.060.750 <hi>l.</hi>
+            </p>
+            <p>It must be granted, that Seven Hundred Thousand Pounds <hi>per Ann.</hi> is a very great Sum, that 506.075 <hi>l. per Annum</hi> for Ten years, will discharge a Debt of 5.060.750 <hi>l.</hi> and that when the Nation comes to be in better Circumstances, with respect to Trade, several of the Duties mention'd may produce more than they have done for some years past; but whatever they will reach, the Sum by him proposed, does not appear from any thing he has advanc'd. Nor has he pro<g ref="char:EOLhyphen"/>duc'd
+<pb n="45" facs="tcp:30615:23"/> any thing like a Proof, that the Fall of any of the Branches mention'd is owing to any ill Conduct of the Persons concern'd in the Management of them; tho he insi<g ref="char:EOLhyphen"/>nuates (<hi>p.</hi> 112. as has been already observ'd) that the Sum of 586.075 <hi>l.</hi> is lost by the <hi>Negligence</hi> or <hi>Corruption</hi> of the Inferiour Of<g ref="char:EOLhyphen"/>ficers of the Excise.</p>
+            <p>And yet (if one may take his Word) he tells us (<hi>p.</hi> 119.) <hi>He is very far from pre<g ref="char:EOLhyphen"/>tending to Reflect upon the Conduct of such as have the Honour to serve the King in his Re<g ref="char:EOLhyphen"/>venues.</hi> And (<hi>p.</hi> 72.) <hi>He has no other aim in these or any other of his Observations, than the Kingdoms Service.</hi> And again (<hi>p.</hi> 120.) <hi>He has no design of finding fault, his Inten<g ref="char:EOLhyphen"/>tion is only to awaken and stir up that Industry and Diligence in others, which</hi> (he tells us with Vanity enough) <hi>himself did ever shew, when he was employ'd in the Affairs relating to the King's Revenues.</hi>
+            </p>
+            <p>But this Gentleman has a very mean O<g ref="char:EOLhyphen"/>pinion o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Reader's Understanding, if he thinks these fair Pretences will obtain Credit in Contradiction to a great part of his Book, in which he has taken upon him to Censure the Conduct, not only of the Commissioners and Officers concern'd in these Revenues, but also of the Mini<g ref="char:EOLhyphen"/>sters
+<pb n="46" facs="tcp:30615:24"/> themselves; for he insinuates plainly enough, that they are equally, if not chief<g ref="char:EOLhyphen"/>ly, to blame for what the Publick has suf<g ref="char:EOLhyphen"/>fer'd by the Deficiency of the several Bran<g ref="char:EOLhyphen"/>ches mention'd. Thus he tells us (<hi>p.</hi> 57.) <hi>Most Ministers forget the past, and are only in<g ref="char:EOLhyphen"/>tent upon the future; former Debts being not so much thought on, as how they may Contract new ones. If some of the Time was spent in looking after old Fonds, that is employ'd in procuring fresh Supplies,</hi> the Government <hi>would not be in such Distress for Money.</hi>
+            </p>
+            <p>And (<hi>p.</hi> 121.) <hi>Improving the Present Re<g ref="char:EOLhyphen"/>venues, must needs be an honester and more easie way of Supplying the Prince, than shewing how the People may be burthen'd with new Taxes and Impositions.</hi>
+            </p>
+            <p>And (<hi>p</hi> 25.) <hi>If general Computations had been more Studied and Improv'd, those Errors relating to the Revenues must probably have been avoided, which have intangled the King's Affairs, and delay'd the Peace so long.</hi> For <hi>the Abilities of any Minister</hi> (he tells us <hi>p.</hi> 6.) <hi>have always consisted chiefly in this Computing Faculty: Nor can the Affairs of War and Peace be well manag'd without Reasoning by Figures upon things.</hi>
+            </p>
+            <pb n="47" facs="tcp:30615:24"/>
+            <p>And having Instructed the <hi>Ministers</hi> in the Management of their great Affairs, told them what Persons they must avoid, and who they should consult, and what great things may be done by the help of <hi>Political-Arithmetick;</hi> he goes on (<hi>p.</hi> 14.) <hi>He that has such a computing Head</hi> [as he is Master of] <hi>will seldom enter into ill Measures; he will not put the Wars of his Prince upon a wrong Foot; he will not engage him in weak Al<g ref="char:EOLhyphen"/>liances; he will not propose ill-digested Schemes and Fonds for Revenues that shall not answer; in any new Council he will weigh the Event be<g ref="char:EOLhyphen"/>fore-hand, and consider how far it may disturb his Masters Affairs, or affect the Nations Credit.</hi>
+            </p>
+            <p>These <hi>Innuendo's</hi> are easily understood, and are a full proof of what he tells us (<hi>p.</hi> 278.) <hi>viz. When things go amiss in a State, Men are apt to blame the Ministers, tho such Errors per<g ref="char:EOLhyphen"/>haps were not to be avoided.</hi> But how far this will Excuse the Liberty he has taken, is sub<g ref="char:EOLhyphen"/>mitted to the Judgment of the Persons par<g ref="char:EOLhyphen"/>ticularly concern'd.</p>
+            <closer>
+               <signed>
+                  <hi>I am,</hi> SIR, <hi>Yours,</hi> &amp;c.</signed>
+               <dateline>
+                  <date>
+                     <hi>Feb.</hi> 12. 1697/8.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
